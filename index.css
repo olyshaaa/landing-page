@@ -738,6 +738,14 @@ footer::before{
     .details{
         margin: 0;
     }
+    .brand-button{
+        margin: 0;
+        margin-top: 10px;
+        width: 20em;
+    }
+    .brand-subtitle{
+        width: 20em;
+    }
 }
 
 @media screen and (max-width: 1200px){
@@ -791,5 +799,13 @@ footer::before{
     }
     .details{
         margin: 0;
+    }
+    .brand-button{
+        margin: 0;
+        margin-top: 10px;
+        width: 20em;
+    }
+    .brand-subtitle{
+        width: 20em;
     }
 }
