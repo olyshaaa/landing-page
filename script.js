@@ -1,3 +1,4 @@
+
 new Swiper(".mySwiper", {
 	spaceBetween: 30,
 	navigation: {
