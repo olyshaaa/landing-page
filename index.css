@@ -744,7 +744,7 @@ footer::before{
         width: 20em;
     }
     .brand-subtitle{
-        width: 20em;
+        width: 10em;
     }
 }
 
@@ -775,7 +775,7 @@ footer::before{
         display: block;
     }
     .reasons-subtitle{
-        width: 18em;
+        width: 13em;
      }
      .work-items{
         display: flex;
@@ -806,6 +806,6 @@ footer::before{
         width: 20em;
     }
     .brand-subtitle{
-        width: 20em;
+        width: 15em;
     }
 }
